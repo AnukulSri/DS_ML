@@ -1,0 +1,24 @@
+{
+    "key": [
+        "account",
+        "user",
+        "system",
+        "application",
+        "password"
+    ],
+    "issue": [
+        "locked",
+        "unlocked",
+        "reset",
+        "connection",
+        "access",
+        "reset",
+        "locked"
+    ],
+    "ci": [
+        "vcn",
+        "sap",
+        "adobe",
+        "teams"
+    ]
+}
